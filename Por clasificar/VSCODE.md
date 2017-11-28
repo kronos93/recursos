@@ -15,6 +15,7 @@ Configuración recomendada y plugins útiles para el trabajo con VSCode.
 ## Utiliades para el entorno
 
 * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) Permite visualizar la redacción del archivo .md (markdown) (ctrl + shift + m to show).
+* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 * [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Resalta la sintaxis de archivos de configuración de Apache como el .htaccess en código de Visual Studio.
 * [Import Cost VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Calcula el tamaño de la importanción a un script
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocompletado de nombres de archivos.
